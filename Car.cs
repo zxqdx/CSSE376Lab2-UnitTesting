@@ -28,5 +28,7 @@ namespace Expedia
 			
 			numberOfDaysToRent = daysToRent;
 		}
+
+
 	}
 }
